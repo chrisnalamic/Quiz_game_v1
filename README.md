@@ -46,15 +46,12 @@ Features:
     Extraordinary
     !!!God!!!
 
-Requirements
+Required:
 Python 3.x
-Required Python packages:
-  -requests
-  -inputimeout
-  -pyttsx3
-
-Install them via pip:
+Install the external libraries and modules with:
 ```pip install requests inputimeout pyttsx3```
+or 
+```pip install -r requirements.txt```
 
 How to Run
 Make sure you have Python 3 installed.
