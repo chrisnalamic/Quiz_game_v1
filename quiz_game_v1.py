@@ -129,7 +129,7 @@ class QuizGame:
     #displaying what the user got in that particular quiz session
     def result(self):
         try:
-            percentage = (self.score / len(self.qna['results'])) * 100
+            percentage = (self.score / 15) * 100
             print(f"\nYou got {self.score} correct.")
             speak(f"You got {self.score} correct.", self.use_tts)
 
