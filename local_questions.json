@@ -1,0 +1,801 @@
+{
+"General Knowledge": {
+    "results": [
+    {
+      "question": "What is the capital of France?",
+      "correct_answer": "Paris",
+      "incorrect_answers": ["London", "Berlin", "Madrid"]
+    },
+    {
+      "question": "What is 5 + 3?",
+      "correct_answer": "8",
+      "incorrect_answers": ["5", "6", "9"]
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "correct_answer": "Mars",
+      "incorrect_answers": ["Earth", "Jupiter", "Venus"]
+    },
+    {
+       "question": "What is the name of the weak zone of the earth’s crust?",
+        "correct_answer": "Seismic",
+        "incorrect_answers": ["Cosmic", "Formic", "Anaemic"]
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+        "correct_answer": "William Shakespeare",
+        "incorrect_answers": ["Charles Dickens", "Mark Twain", "Leo Tolstoy"]
+      },
+      {
+        "question": "What is the largest mammal in the world?",
+        "correct_answer": "Blue Whale",
+        "incorrect_answers": ["Elephant", "Giraffe", "Hippopotamus"]
+      },
+      {
+        "question": "Which country is home to the Great Pyramid of Giza?",
+        "correct_answer": "Egypt",
+        "incorrect_answers": ["Mexico", "India", "China"]
+    },
+    {
+        "question": "How many continents are there on Earth?",
+        "correct_answer": "Seven",
+        "incorrect_answers": ["Five", "Six", "Eight"]
+    },
+    {
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "correct_answer": "Carbon Dioxide",
+        "incorrect_answers": ["Oxygen", "Nitrogen", "Hydrogen"]
+    },
+    {
+        "question": "Which ocean is the largest on Earth?",
+        "correct_answer": "Pacific Ocean",
+        "incorrect_answers": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean"]
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "correct_answer": "Leonardo da Vinci",
+        "incorrect_answers": ["Vincent van Gogh", "Pablo Picasso", "Michelangelo"]
+    },
+    {
+        "question": "Which element has the chemical symbol 'O'?",
+        "correct_answer": "Oxygen",
+        "incorrect_answers": ["Gold", "Osmium", "Oxide"]
+    },
+    {
+        "question": "In which year did the Titanic sink?",
+        "correct_answer": "1912",
+        "incorrect_answers": ["1905", "1915", "1920"]
+    },
+    {
+        "question": "What is the tallest mountain in the world?",
+        "correct_answer": "Mount Everest",
+        "incorrect_answers": ["K2", "Mount Kilimanjaro", "Mount Elbrus"]
+    },
+    {
+        "question": "Which organ in the human body is responsible for pumping blood?",
+        "correct_answer": "Heart",
+        "incorrect_answers": ["Lungs", "Liver", "Kidneys"]
+    }
+  ]
+},
+
+"Science and Nature": {
+    "results": [
+        {
+            "question": "What part of the cell contains the genetic material?",
+            "correct_answer": "Nucleus",
+            "incorrect_answers": ["Cytoplasm", "Cell membrane", "Mitochondria"]
+        },
+        {
+            "question": "What gas do humans need to breathe in order to survive?",
+            "correct_answer": "Oxygen",
+            "incorrect_answers": ["Carbon Dioxide", "Nitrogen", "Helium"]
+        },
+        {
+            "question": "What is the chemical symbol for water?",
+            "correct_answer": "H2O",
+            "incorrect_answers": ["O2", "CO2", "HO2"]
+        },
+        {
+            "question": "Which planet is the hottest in the solar system?",
+            "correct_answer": "Venus",
+            "incorrect_answers": ["Mercury", "Mars", "Jupiter"]
+        },
+        {
+            "question": "What is the process by which plants make their food?",
+            "correct_answer": "Photosynthesis",
+            "incorrect_answers": ["Respiration", "Digestion", "Transpiration"]
+        },
+        {
+            "question": "Which is the hardest natural substance on Earth?",
+            "correct_answer": "Diamond",
+            "incorrect_answers": ["Gold", "Iron", "Quartz"]
+        },
+        {
+            "question": "What is the primary gas found in the Earth's atmosphere?",
+            "correct_answer": "Nitrogen",
+            "incorrect_answers": ["Oxygen", "Carbon Dioxide", "Hydrogen"]
+        },
+        {
+            "question": "Which organ helps to filter waste from the blood?",
+            "correct_answer": "Kidney",
+            "incorrect_answers": ["Liver", "Lungs", "Heart"]
+        },
+        {
+            "question": "What is the boiling point of water at sea level in Celsius?",
+            "correct_answer": "100",
+            "incorrect_answers": ["90", "80", "120"]
+        },
+        {
+            "question": "Which vitamin is produced when a person is exposed to sunlight?",
+            "correct_answer": "Vitamin D",
+            "incorrect_answers": ["Vitamin C", "Vitamin A", "Vitamin B12"]
+        },
+        {
+            "question": "What type of animal is a Komodo dragon?",
+            "correct_answer": "Lizard",
+            "incorrect_answers": ["Snake", "Crocodile", "Turtle"]
+        },
+        {
+            "question": "What is the largest organ in the human body?",
+            "correct_answer": "Skin",
+            "incorrect_answers": ["Heart", "Liver", "Lungs"]
+        },
+        {
+            "question": "Which gas is most commonly used in balloons to make them float?",
+            "correct_answer": "Helium",
+            "incorrect_answers": ["Hydrogen", "Oxygen", "Carbon Dioxide"]
+        },
+        {
+            "question": "Which metal is liquid at room temperature?",
+            "correct_answer": "Mercury",
+            "incorrect_answers": ["Gold", "Silver", "Copper"]
+        },
+        {
+            "question": "How many legs does a spider have?",
+            "correct_answer": "Eight",
+            "incorrect_answers": ["Six", "Ten", "Twelve"]
+        }
+  ]
+},
+
+"Computers": {
+    "results": [
+        {
+            "question": "What does CPU stand for?",
+            "correct_answer": "Central Processing Unit",
+            "incorrect_answers": ["Central Program Unit", "Computer Processing Unit", "Control Processing Unit"]
+        },
+        {
+            "question": "What is the name of the first electronic general-purpose computer?",
+            "correct_answer": "ENIAC",
+            "incorrect_answers": ["UNIVAC", "EDSAC", "Colossus"]
+        },
+        {
+            "question": "Which company created the Windows operating system?",
+            "correct_answer": "Microsoft",
+            "incorrect_answers": ["Apple", "IBM", "Google"]
+        },
+        {
+            "question": "What does RAM stand for?",
+            "correct_answer": "Random Access Memory",
+            "incorrect_answers": ["Read Access Memory", "Rapid Access Memory", "Run Access Memory"]
+        },
+        {
+            "question": "Which language is mainly used for web development?",
+            "correct_answer": "HTML",
+            "incorrect_answers": ["C++", "Python", "Java"]
+        },
+        {
+            "question": "Which device is used to input printed text into a computer?",
+            "correct_answer": "Scanner",
+            "incorrect_answers": ["Printer", "Monitor", "Keyboard"]
+        },
+        {
+            "question": "Which key is used to create a new line in a text document?",
+            "correct_answer": "Enter",
+            "incorrect_answers": ["Space", "Shift", "Control"]
+        },
+        {
+            "question": "What is the brain of the computer called?",
+            "correct_answer": "Processor",
+            "incorrect_answers": ["Monitor", "Keyboard", "Mouse"]
+        },
+        {
+            "question": "Which storage device has no moving parts?",
+            "correct_answer": "SSD",
+            "incorrect_answers": ["HDD", "CD-ROM", "Floppy Disk"]
+        },
+        {
+            "question": "What does 'www' stand for in a website browser?",
+            "correct_answer": "World Wide Web",
+            "incorrect_answers": ["World Web Wide", "Web Wide World", "Wide Web World"]
+        },
+        {
+            "question": "Which programming language is known for its snake logo?",
+            "correct_answer": "Python",
+            "incorrect_answers": ["Java", "Ruby", "Perl"]
+        },
+        {
+            "question": "Which company manufactures iPhones?",
+            "correct_answer": "Apple",
+            "incorrect_answers": ["Samsung", "Microsoft", "Google"]
+        },
+        {
+            "question": "What is the name of Google’s operating system for smartphones?",
+            "correct_answer": "Android",
+            "incorrect_answers": ["iOS", "Windows Mobile", "Blackberry OS"]
+        },
+        {
+            "question": "What unit is used to measure the speed of a processor?",
+            "correct_answer": "GHz",
+            "incorrect_answers": ["Mbps", "RPM", "kWh"]
+        },
+        {
+            "question": "Which part of the computer displays the visual output?",
+            "correct_answer": "Monitor",
+            "incorrect_answers": ["CPU", "Keyboard", "Printer"]
+        }
+  ]
+},
+
+"Mythology": {
+    "results": [
+        {
+            "question": "Who is the king of the gods in Greek mythology?",
+            "correct_answer": "Zeus",
+            "incorrect_answers": ["Poseidon", "Apollo", "Hades"]
+        },
+        {
+            "question": "In Egyptian mythology, who is the god of the afterlife?",
+            "correct_answer": "Osiris",
+            "incorrect_answers": ["Ra", "Anubis", "Horus"]
+        },
+        {
+            "question": "What is the name of Thor’s hammer in Norse mythology?",
+            "correct_answer": "Mjolnir",
+            "incorrect_answers": ["Gungnir", "Brisingamen", "Gram"]
+        },
+        {
+            "question": "In Roman mythology, who is the goddess of love?",
+            "correct_answer": "Venus",
+            "incorrect_answers": ["Diana", "Minerva", "Juno"]
+        },
+        {
+            "question": "Who is the Greek goddess of wisdom and warfare?",
+            "correct_answer": "Athena",
+            "incorrect_answers": ["Aphrodite", "Artemis", "Hera"]
+        },
+        {
+            "question": "Which creature in Greek mythology has the body of a lion and the head of a human?",
+            "correct_answer": "Sphinx",
+            "incorrect_answers": ["Minotaur", "Cerberus", "Griffin"]
+        },
+        {
+            "question": "In Hindu mythology, who is known as the destroyer god?",
+            "correct_answer": "Shiva",
+            "incorrect_answers": ["Brahma", "Vishnu", "Indra"]
+        },
+        {
+            "question": "In Norse mythology, what is the name of the tree that connects the nine worlds?",
+            "correct_answer": "Yggdrasil",
+            "incorrect_answers": ["Asgard", "Midgard", "Valhalla"]
+        },
+        {
+            "question": "Who is the trickster god in Norse mythology?",
+            "correct_answer": "Loki",
+            "incorrect_answers": ["Thor", "Odin", "Baldur"]
+        },
+        {
+            "question": "In Greek mythology, who flew too close to the sun?",
+            "correct_answer": "Icarus",
+            "incorrect_answers": ["Daedalus", "Perseus", "Theseus"]
+        },
+        {
+            "question": "Which Roman god is equivalent to the Greek god Ares?",
+            "correct_answer": "Mars",
+            "incorrect_answers": ["Jupiter", "Mercury", "Neptune"]
+        },
+        {
+            "question": "Who is the goddess of the hunt in Greek mythology?",
+            "correct_answer": "Artemis",
+            "incorrect_answers": ["Athena", "Demeter", "Hestia"]
+        },
+        {
+            "question": "In Egyptian mythology, which god has the head of a jackal?",
+            "correct_answer": "Anubis",
+            "incorrect_answers": ["Ra", "Thoth", "Seth"]
+        },
+        {
+            "question": "What is the Roman name for the Greek god Hermes?",
+            "correct_answer": "Mercury",
+            "incorrect_answers": ["Mars", "Vulcan", "Neptune"]
+        },
+        {
+            "question": "Which Greek hero completed twelve labors as a punishment?",
+            "correct_answer": "Heracles",
+            "incorrect_answers": ["Achilles", "Odysseus", "Perseus"]
+        }
+  ]
+},
+
+"Sports": {
+    "results": [
+        {
+            "question": "How many players are there in a football (soccer) team on the field?",
+            "correct_answer": "11",
+            "incorrect_answers": ["10", "12", "9"]
+        },
+        {
+            "question": "Which country has won the most FIFA World Cups?",
+            "correct_answer": "Brazil",
+            "incorrect_answers": ["Germany", "Italy", "Argentina"]
+        },
+        {
+            "question": "In which sport is the term 'love' used for a score of zero?",
+            "correct_answer": "Tennis",
+            "incorrect_answers": ["Badminton", "Squash", "Table Tennis"]
+        },
+        {
+            "question": "Which sport uses a puck instead of a ball?",
+            "correct_answer": "Ice Hockey",
+            "incorrect_answers": ["Cricket", "Lacrosse", "Field Hockey"]
+        },
+        {
+            "question": "What is the national sport of Japan?",
+            "correct_answer": "Sumo Wrestling",
+            "incorrect_answers": ["Karate", "Judo", "Kendo"]
+        },
+        {
+            "question": "Which athlete has won the most Olympic medals?",
+            "correct_answer": "Michael Phelps",
+            "incorrect_answers": ["Usain Bolt", "Larisa Latynina", "Mark Spitz"]
+        },
+        {
+            "question": "How many points is a touchdown worth in American Football?",
+            "correct_answer": "6",
+            "incorrect_answers": ["3", "7", "5"]
+        },
+        {
+            "question": "Which country hosted the 2016 Summer Olympics?",
+            "correct_answer": "Brazil",
+            "incorrect_answers": ["China", "United Kingdom", "Russia"]
+        },
+        {
+            "question": "In cricket, how many balls are there in an over?",
+            "correct_answer": "6",
+            "incorrect_answers": ["5", "7", "8"]
+        },
+        {
+            "question": "What is the maximum break possible in a game of snooker?",
+            "correct_answer": "147",
+            "incorrect_answers": ["155", "140", "150"]
+        },
+        {
+            "question": "Which country invented the sport of rugby?",
+            "correct_answer": "England",
+            "incorrect_answers": ["Australia", "New Zealand", "South Africa"]
+        },
+        {
+            "question": "Who holds the record for the most home runs in a single MLB season?",
+            "correct_answer": "Barry Bonds",
+            "incorrect_answers": ["Babe Ruth", "Mark McGwire", "Sammy Sosa"]
+        },
+        {
+            "question": "Which female tennis player has won the most Grand Slam titles?",
+            "correct_answer": "Serena Williams",
+            "incorrect_answers": ["Steffi Graf", "Martina Navratilova", "Margaret Court"]
+        },
+        {
+            "question": "Which sport is known as the 'king of sports'?",
+            "correct_answer": "Soccer",
+            "incorrect_answers": ["Basketball", "Tennis", "Cricket"]
+        },
+        {
+            "question": "What is the name of the trophy awarded to the NBA champions?",
+            "correct_answer": "Larry O'Brien Trophy",
+            "incorrect_answers": ["Vince Lombardi Trophy", "Stanley Cup", "Commissioner's Trophy"]
+        }
+  ]
+},
+
+"Geography": {
+    "results": [
+        {
+            "question": "Which is the largest desert in the world?",
+            "correct_answer": "Sahara Desert",
+            "incorrect_answers": ["Gobi Desert", "Kalahari Desert", "Arabian Desert"]
+        },
+        {
+            "question": "What is the longest river in the world?",
+            "correct_answer": "Nile River",
+            "incorrect_answers": ["Amazon River", "Yangtze River", "Mississippi River"]
+        },
+        {
+            "question": "Which country has the largest population?",
+            "correct_answer": "China",
+            "incorrect_answers": ["India", "United States", "Indonesia"]
+        },
+        {
+            "question": "What is the capital city of Australia?",
+            "correct_answer": "Canberra",
+            "incorrect_answers": ["Sydney", "Melbourne", "Brisbane"]
+        },
+        {
+            "question": "Which continent is known as the 'Dark Continent'?",
+            "correct_answer": "Africa",
+            "incorrect_answers": ["Asia", "South America", "Europe"]
+        },
+        {
+            "question": "Mount Kilimanjaro is located in which country?",
+            "correct_answer": "Tanzania",
+            "incorrect_answers": ["Kenya", "South Africa", "Uganda"]
+        },
+        {
+            "question": "Which ocean borders the east coast of the United States?",
+            "correct_answer": "Atlantic Ocean",
+            "incorrect_answers": ["Pacific Ocean", "Indian Ocean", "Arctic Ocean"]
+        },
+        {
+            "question": "Which country is both in Europe and Asia?",
+            "correct_answer": "Turkey",
+            "incorrect_answers": ["Russia", "Egypt", "Kazakhstan"]
+        },
+        {
+            "question": "What is the capital of Canada?",
+            "correct_answer": "Ottawa",
+            "incorrect_answers": ["Toronto", "Vancouver", "Montreal"]
+        },
+        {
+            "question": "Which country has the most islands?",
+            "correct_answer": "Sweden",
+            "incorrect_answers": ["Indonesia", "Philippines", "Canada"]
+        },
+        {
+            "question": "What is the smallest country in the world by land area?",
+            "correct_answer": "Vatican City",
+            "incorrect_answers": ["Monaco", "Nauru", "San Marino"]
+        },
+        {
+            "question": "Which U.S. state is known as the 'Sunshine State'?",
+            "correct_answer": "Florida",
+            "incorrect_answers": ["California", "Texas", "Hawaii"]
+        },
+        {
+            "question": "What is the capital of Italy?",
+            "correct_answer": "Rome",
+            "incorrect_answers": ["Venice", "Milan", "Florence"]
+        },
+        {
+            "question": "Which mountain range separates Europe and Asia?",
+            "correct_answer": "Ural Mountains",
+            "incorrect_answers": ["Andes Mountains", "Himalayas", "Alps"]
+        },
+        {
+            "question": "What is the largest island in the world?",
+            "correct_answer": "Greenland",
+            "incorrect_answers": ["Australia", "Borneo", "Madagascar"]
+        }
+  ]
+},
+
+"History": {
+    "results": [
+        {
+            "question": "Who was the first President of the United States?",
+            "correct_answer": "George Washington",
+            "incorrect_answers": ["Thomas Jefferson", "Abraham Lincoln", "John Adams"]
+        },
+        {
+            "question": "In which year did World War II end?",
+            "correct_answer": "1945",
+            "incorrect_answers": ["1940", "1939", "1944"]
+        },
+        {
+            "question": "Which ancient civilization built the pyramids?",
+            "correct_answer": "Egyptians",
+            "incorrect_answers": ["Romans", "Greeks", "Mayans"]
+        },
+        {
+            "question": "Who was known as the Maid of Orléans?",
+            "correct_answer": "Joan of Arc",
+            "incorrect_answers": ["Marie Curie", "Catherine the Great", "Queen Elizabeth I"]
+        },
+        {
+            "question": "What wall famously divided Berlin until 1989?",
+            "correct_answer": "Berlin Wall",
+            "incorrect_answers": ["Great Wall", "Iron Wall", "Freedom Wall"]
+        },
+        {
+            "question": "Who discovered America in 1492?",
+            "correct_answer": "Christopher Columbus",
+            "incorrect_answers": ["Leif Erikson", "Amerigo Vespucci", "Vasco da Gama"]
+        },
+        {
+            "question": "Which empire was ruled by Julius Caesar?",
+            "correct_answer": "Roman Empire",
+            "incorrect_answers": ["Greek Empire", "Ottoman Empire", "Persian Empire"]
+        },
+        {
+            "question": "What year did the Titanic sink?",
+            "correct_answer": "1912",
+            "incorrect_answers": ["1905", "1915", "1920"]
+        },
+        {
+            "question": "Who was the British Prime Minister during World War II?",
+            "correct_answer": "Winston Churchill",
+            "incorrect_answers": ["Neville Chamberlain", "Clement Attlee", "Margaret Thatcher"]
+        },
+        {
+            "question": "Which U.S. president issued the Emancipation Proclamation?",
+            "correct_answer": "Abraham Lincoln",
+            "incorrect_answers": ["George Washington", "Theodore Roosevelt", "Thomas Jefferson"]
+        },
+        {
+            "question": "The fall of Constantinople occurred in which year?",
+            "correct_answer": "1453",
+            "incorrect_answers": ["1492", "1415", "1501"]
+        },
+        {
+            "question": "Who was the famous nurse during the Crimean War?",
+            "correct_answer": "Florence Nightingale",
+            "incorrect_answers": ["Marie Curie", "Clara Barton", "Elizabeth Blackwell"]
+        },
+        {
+            "question": "Which war was fought between the North and South regions in the United States?",
+            "correct_answer": "Civil War",
+            "incorrect_answers": ["World War I", "Revolutionary War", "Mexican-American War"]
+        },
+        {
+            "question": "Who was the first man to step on the moon?",
+            "correct_answer": "Neil Armstrong",
+            "incorrect_answers": ["Buzz Aldrin", "Yuri Gagarin", "Michael Collins"]
+        },
+        {
+            "question": "What was the name of the ship on which the Pilgrims traveled to America in 1620?",
+            "correct_answer": "Mayflower",
+            "incorrect_answers": ["Santa Maria", "Endeavour", "Victoria"]
+        }
+  ]
+},
+
+"Vehicles": {
+    "results": [
+        {
+            "question": "What company manufactures the Mustang car model?",
+            "correct_answer": "Ford",
+            "incorrect_answers": ["Chevrolet", "Dodge", "Toyota"]
+        },
+        {
+            "question": "Which country is home to the car brand Ferrari?",
+            "correct_answer": "Italy",
+            "incorrect_answers": ["Germany", "France", "United States"]
+        },
+        {
+            "question": "What does 'SUV' stand for?",
+            "correct_answer": "Sport Utility Vehicle",
+            "incorrect_answers": ["Standard Utility Vehicle", "Super Urban Vehicle", "Special Utility Van"]
+        },
+        {
+            "question": "What is the term for a two-wheeled motor vehicle?",
+            "correct_answer": "Motorcycle",
+            "incorrect_answers": ["Bicycle", "Scooter", "Tricycle"]
+        },
+        {
+            "question": "Which car company produces the Civic model?",
+            "correct_answer": "Honda",
+            "incorrect_answers": ["Nissan", "Toyota", "Mazda"]
+        },
+        {
+            "question": "What kind of vehicle is a Boeing 747?",
+            "correct_answer": "Airplane",
+            "incorrect_answers": ["Train", "Car", "Ship"]
+        },
+        {
+            "question": "Which country produces Volvo cars?",
+            "correct_answer": "Sweden",
+            "incorrect_answers": ["Germany", "United States", "Japan"]
+        },
+        {
+            "question": "What fuel do most Formula 1 cars use?",
+            "correct_answer": "Petrol",
+            "incorrect_answers": ["Diesel", "Electricity", "Natural Gas"]
+        },
+        {
+            "question": "Which vehicle brand has a logo with a three-pointed star?",
+            "correct_answer": "Mercedes-Benz",
+            "incorrect_answers": ["BMW", "Audi", "Volkswagen"]
+        },
+        {
+            "question": "What is the name for a ship designed to carry oil?",
+            "correct_answer": "Tanker",
+            "incorrect_answers": ["Ferry", "Cargo", "Cruiser"]
+        },
+        {
+            "question": "Which company is known for the Beetle car?",
+            "correct_answer": "Volkswagen",
+            "incorrect_answers": ["Renault", "Fiat", "Peugeot"]
+        },
+        {
+            "question": "Which Japanese company produces the Supra model?",
+            "correct_answer": "Toyota",
+            "incorrect_answers": ["Honda", "Nissan", "Mitsubishi"]
+        },
+        {
+            "question": "What type of vehicle is used in MotoGP races?",
+            "correct_answer": "Motorcycle",
+            "incorrect_answers": ["Car", "Truck", "Bicycle"]
+        },
+        {
+            "question": "What is the maximum speed of a typical bullet train in Japan?",
+            "correct_answer": "320 km/h",
+            "incorrect_answers": ["250 km/h", "280 km/h", "300 km/h"]
+        },
+        {
+            "question": "What is the name of Tesla’s first mass-market electric car?",
+            "correct_answer": "Model 3",
+            "incorrect_answers": ["Model S", "Model X", "Model Y"]
+        }
+  ]
+},
+
+"Music": {
+    "results": [
+        {
+            "question": "Who is known as the King of Pop?",
+            "correct_answer": "Michael Jackson",
+            "incorrect_answers": ["Elvis Presley", "Prince", "Madonna"]
+        },
+        {
+            "question": "Which band wrote the song 'Bohemian Rhapsody'?",
+            "correct_answer": "Queen",
+            "incorrect_answers": ["The Beatles", "The Rolling Stones", "Led Zeppelin"]
+        },
+        {
+            "question": "Who composed the famous 'Symphony No. 9'?",
+            "correct_answer": "Ludwig van Beethoven",
+            "incorrect_answers": ["Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Franz Schubert"]
+        },
+        {
+            "question": "What instrument does a violinist play?",
+            "correct_answer": "Violin",
+            "incorrect_answers": ["Viola", "Cello", "Guitar"]
+        },
+        {
+            "question": "Which famous musician is known for his song 'Imagine'?",
+            "correct_answer": "John Lennon",
+            "incorrect_answers": ["Paul McCartney", "Elton John", "Bob Dylan"]
+        },
+        {
+            "question": "What is the term for the main melody of a song?",
+            "correct_answer": "Hook",
+            "incorrect_answers": ["Verse", "Chorus", "Bridge"]
+        },
+        {
+            "question": "Which band released the album 'Abbey Road'?",
+            "correct_answer": "The Beatles",
+            "incorrect_answers": ["The Rolling Stones", "Pink Floyd", "The Who"]
+        },
+        {
+            "question": "What is the highest female voice type in classical music?",
+            "correct_answer": "Soprano",
+            "incorrect_answers": ["Alto", "Mezzo-soprano", "Tenor"]
+        },
+        {
+            "question": "Which artist is famous for the song 'Rolling in the Deep'?",
+            "correct_answer": "Adele",
+            "incorrect_answers": ["Beyoncé", "Lady Gaga", "Rihanna"]
+        },
+        {
+            "question": "What type of music is most associated with Louis Armstrong?",
+            "correct_answer": "Jazz",
+            "incorrect_answers": ["Blues", "Rock", "Classical"]
+        },
+        {
+            "question": "Who is the best-selling female artist of all time?",
+            "correct_answer": "Celine Dion",
+            "incorrect_answers": ["Madonna", "Beyoncé", "Mariah Carey"]
+        },
+        {
+            "question": "Which musical genre did Bob Marley help popularize?",
+            "correct_answer": "Reggae",
+            "incorrect_answers": ["Rock", "Jazz", "Folk"]
+        },
+        {
+            "question": "Which Beatles song was famously sung as 'Hey Jude'?",
+            "correct_answer": "Hey Jude",
+            "incorrect_answers": ["Let It Be", "Yesterday", "Come Together"]
+        },
+        {
+            "question": "What genre of music is Michael Jackson associated with?",
+            "correct_answer": "Pop",
+            "incorrect_answers": ["Rock", "R&B", "Classical"]
+        },
+        {
+            "question": "What country is the band ABBA from?",
+            "correct_answer": "Sweden",
+            "incorrect_answers": ["Norway", "Finland", "Denmark"]
+        }
+  ]
+},
+
+"Video Games": {
+    "results": [
+        {
+            "question": "Which video game features a character named Link?",
+            "correct_answer": "The Legend of Zelda",
+            "incorrect_answers": ["Super Mario", "Metroid", "Final Fantasy"]
+        },
+        {
+            "question": "What was the first video game console ever made?",
+            "correct_answer": "Magnavox Odyssey",
+            "incorrect_answers": ["Atari 2600", "Nintendo Entertainment System", "Sega Genesis"]
+        },
+        {
+            "question": "Which video game character is known for collecting coins and jumping on mushrooms?",
+            "correct_answer": "Mario",
+            "incorrect_answers": ["Sonic", "Donkey Kong", "Luigi"]
+        },
+        {
+            "question": "In which game do players battle in a fictional arena called 'Apex Games'?",
+            "correct_answer": "Apex Legends",
+            "incorrect_answers": ["Fortnite", "Call of Duty", "PUBG"]
+        },
+        {
+            "question": "Which video game features the character Master Chief?",
+            "correct_answer": "Halo",
+            "incorrect_answers": ["Gears of War", "Destiny", "Doom"]
+        },
+        {
+            "question": "What is the main goal of the game Minecraft?",
+            "correct_answer": "Survival and building",
+            "incorrect_answers": ["Racing", "Puzzles", "Fighting"]
+        },
+        {
+            "question": "Which video game franchise features a yellow, circular character named Pac-Man?",
+            "correct_answer": "Pac-Man",
+            "incorrect_answers": ["Donkey Kong", "Space Invaders", "Asteroids"]
+        },
+        {
+            "question": "What game popularized the Battle Royale genre?",
+            "correct_answer": "PlayerUnknown's Battlegrounds (PUBG)",
+            "incorrect_answers": ["Fortnite", "Apex Legends", "Call of Duty: Warzone"]
+        },
+        {
+            "question": "What video game is known for the phrase 'The cake is a lie'?",
+            "correct_answer": "Portal",
+            "incorrect_answers": ["Half-Life", "BioShock", "Left 4 Dead"]
+        },
+        {
+            "question": "In the game 'The Witcher 3: Wild Hunt,' who is the main protagonist?",
+            "correct_answer": "Geralt of Rivia",
+            "incorrect_answers": ["Ciri", "Triss Merigold", "Yennefer"]
+        },
+        {
+            "question": "Which video game franchise features creatures known as Pikachu?",
+            "correct_answer": "Pokémon",
+            "incorrect_answers": ["Digimon", "Yu-Gi-Oh!", "Monster Hunter"]
+        },
+        {
+            "question": "In which game would you find the character 'Kratos'?",
+            "correct_answer": "God of War",
+            "incorrect_answers": ["Horizon Zero Dawn", "Dark Souls", "Assassin's Creed"]
+        },
+        {
+            "question": "What is the name of the fictional country in the game 'Grand Theft Auto: Vice City'?",
+            "correct_answer": "Vice City",
+            "incorrect_answers": ["Liberty City", "San Andreas", "Raccoon City"]
+        },
+        {
+            "question": "In the 'Legend of Zelda' series, who is Zelda’s alter ego?",
+            "correct_answer": "Sheik",
+            "incorrect_answers": ["Navi", "Epona", "Impa"]
+        },
+        {
+            "question": "Which video game features a character named Lara Croft?",
+            "correct_answer": "Tomb Raider",
+            "incorrect_answers": ["Uncharted", "Prince of Persia", "Assassin's Creed"]
+        }
+  ]
+}
+}
